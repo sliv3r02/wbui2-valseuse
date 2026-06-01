@@ -5,7 +5,7 @@
       "hideicon": true,
       "hideiconafter": 10,
       "iconurl": "https://i.imgur.com/Ubf19Iz.png",
-      "disableicontext": false,
+      "disableicontext": true,
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
@@ -27,7 +27,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.Red>Règlement</>",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "imageurl": "https://i.imgur.com/xqtfAkn.png",
         "content": [
           {
             "title": "<TextStyle.Red>Règlement</>",
