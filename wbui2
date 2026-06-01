@@ -1,0 +1,51 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 1,
+      "hideicon": true,
+      "hideiconafter": 10,
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 24
+    },
+    "tabs": [
+      {
+        "layout": 2,
+        "buttontext": "Bienvenue",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "🦖 Bienvenue sur Les Valseuses ! 🦖",
+            "text": "🦖 Bienvenue sur Les Valseuses ! 🦖\n\nSalut survivant ! 👋\n\nBienvenue sur notre serveur . Nous te souhaitons une excellente aventure parmi nous !\n\n📌 N'oublie pas de rejoindre notre Discord pour accéder aux informations du serveur, aux événements, aux récompenses de vote et à l'aide de la communauté :\n\n<TextStyle.LightBlue>🔗 https://discord.gg/z4h6CWzaem</>\n\n💬 Une fois arrivé sur Discord, pense à lire les règles et à créer ta fiche tribu.\n\nBon jeu et amuse-toi bien sur Les Valseuses ! 🦖🎉"
+          },
+          {
+            "title": "Right title",
+            "text": "This text goes into the right box"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Red>Règlement</>",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<TextStyle.Red>Règlement</>",
+            "text": "📜 Règlement Essentiel\n🌍 Respect\n✅ Respect et fair-play obligatoires.\n❌ Triche, glitchs et exploits interdits.\n❌ Insultes graves, discrimination et harcèlement interdits.\n🏘️ Bases\n🏠 1 base principale + 1 enclos marin maximum par map.\n📏 Ne pas construire trop près des autres joueurs, des ressources ou des zones importantes.\n❌ Interdiction de bloquer obélisques, artefacts et notes d’explorateur.\n🦖 Créatures\n🐾 Maximum 50 dinos sortis par joueur.\n⏱️ Reproduction de plus de 12h interdite sans surveillance.\n🐕 Dinos en promenade uniquement près de votre base.\n⚠️ Important\n🆔 Même pseudo en jeu et sur Discord.\n💰 Aucun remboursement de stuff, dinos ou personnages perdus.\n⛔ Sanctions\n⚠️ Avertissement → Ban temporaire → Ban définitif.\n🚫 Triche ou comportement toxique = sanction immédiate.\n\n\n\n"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "<TextStyle.LightBlue>lien discord</>",
+        "url": "https://discord.gg/z4h6CWzaem"
+      }
+    ],
+    "version": 2
+  }
+}
