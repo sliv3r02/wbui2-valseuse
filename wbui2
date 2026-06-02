@@ -3,7 +3,7 @@
     "settings": {
       "openbutton": 1,
       "hideicon": true,
-      "hideiconafter": 10,
+      "hideiconafter": 20,
       "iconurl": "https://i.imgur.com/Ubf19Iz.png",
       "disableicontext": true,
       "iconposition": 0,
