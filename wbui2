@@ -16,7 +16,7 @@
             {
                 "layout": 1,
                 "buttontext": "Bienvenue",
-                "imageurl": "https://i.imgur.com/xqtfAkn.png",
+                "imageurl": "https://i.imgur.com/cTB87Qf.jpeg",
                 "content": [
                     {
                         "title": "Bienvenue sur Les Valseuses !",
@@ -27,7 +27,7 @@
             {
                 "layout": 1,
                 "buttontext": "<TextStyle.Red>Règlement</>",
-                "imageurl": "https://i.imgur.com/xqtfAkn.png",
+                "imageurl": "https://i.imgur.com/cTB87Qf.jpeg",
                 "content": [
                     {
                         "title": "<TextStyle.Red>Règlement</>",
