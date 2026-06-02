@@ -1,47 +1,47 @@
 {
-    "WBUI2": {
-        "settings": {
-            "openbutton": 1,
-            "hideicon": true,
-            "hideiconafter": 20,
-            "iconurl": "https://i.imgur.com/Ubf19Iz.png",
-            "disableicontext": true,
-            "iconposition": 0,
-            "icontextcolor": 0,
-            "openonstart": true,
-            "openonstartonlynewplayers": true,
-            "updateinterval": 1
-        },
-        "tabs": [
-            {
-                "layout": 1,
-                "buttontext": "Bienvenue",
-                "imageurl": "https://i.imgur.com/cTB87Qf.jpeg",
-                "content": [
-                    {
-                        "title": "Bienvenue sur Les Valseuses !",
-                        "text": "Salut survivant !\n\nBienvenue sur Les Valseuses. Nous te souhaitons une excellente aventure parmi nous !\n\n<RichColor Color=\"0,0,1,1\">N'oublie pas de rejoindre notre Discord pour pouvoir continuer à jouer et accéder aux informations du serveur, aux événements, aux récompenses de vote et à l'aide de la communauté :</>\n\n<TextStyle.LightBlue>https://discord.gg/z4h6CWzaem</>\n\nUne fois arrivé sur Discord, pense à lire les règles et à créer ta fiche tribu.\n\nBon jeu et amuse-toi bien sur Les Valseuses !"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "<TextStyle.Red>Règlement</>",
-                "imageurl": "https://i.imgur.com/cTB87Qf.jpeg",
-                "content": [
-                    {
-                        "title": "<TextStyle.Red>Règlement</>",
-                        "text": "Règlement Essentiel\nRespect\nRespect et fair-play obligatoires.\nTriche, glitchs et exploits interdits.\nInsultes graves, discrimination et harcèlement interdits.\nBases\n1 base principale + 1 enclos marin maximum par map.\nNe pas construire trop près des autres joueurs, des ressources ou des zones importantes.\nInterdiction de bloquer obélisques, artefacts et notes d’explorateur.\nCréatures\nMaximum 50 dinos sortis par joueur.\nReproduction de plus de 12h interdite sans surveillance.\nDinos en promenade uniquement près de votre base.\nImportant\nMême pseudo en jeu et sur Discord.\nAucun remboursement de stuff, dinos ou personnages perdus.\nSanctions\nAvertissement → Ban temporaire → Ban définitif.\nTriche ou comportement toxique = sanction immédiate.\n\n\n\n"
-                    }
-                ]
-            }
-        ],
-        "links": [
-            {
-                "text": "lien discord",
-                "url": "https://discord.gg/z4h6CWzaem"
-            }
-        ],
-        "version": 2
-    }
+  "WBUI2": {
+    "settings": {
+      "openbutton": 1,
+      "hideicon": true,
+      "hideiconafter": 20,
+      "iconurl": "https://i.imgur.com/Ubf19Iz.png",
+      "disableicontext": true,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 1
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Bienvenue",
+        "imageurl": "https://i.imgur.com/cTB87Qf.jpeg",
+        "content": [
+          {
+            "title": "Bienvenue sur Les Valseuses !",
+            "text": "<TextStyle.Black>Salut survivant !\n\nBienvenue sur Les Valseuses. Nous te souhaitons une excellente aventure parmi nous !\n\nN'oublie pas de rejoindre notre Discord pour pouvoir continuer à jouer et accéder aux informations du serveur, aux événements, aux récompenses de vote et à l'aide de la communauté :\n\n<TextStyle.LightBlue>https://discord.gg/z4h6CWzaem</>\n\nUne fois arrivé sur Discord, pense à lire les règles et à créer ta fiche tribu.\n\nBon jeu et amuse-toi bien sur Les Valseuses !</>"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Red>Règlement</>",
+        "imageurl": "https://i.imgur.com/cTB87Qf.jpeg",
+        "content": [
+          {
+            "title": "<TextStyle.Red>Règlement</>",
+            "text": "<TextStyle.Black>Règlement Essentiel\nRespect\nRespect et fair-play obligatoires.\nTriche, glitchs et exploits interdits.\nInsultes graves, discrimination et harcèlement interdits.\nBases\n1 base principale + 1 enclos marin maximum par map.\nNe pas construire trop près des autres joueurs, des ressources ou des zones importantes.\nInterdiction de bloquer obélisques, artefacts et notes d’explorateur.\nCréatures\nMaximum 50 dinos sortis par joueur.\nReproduction de plus de 12h interdite sans surveillance.\nDinos en promenade uniquement près de votre base.\nImportant\nMême pseudo en jeu et sur Discord.\nAucun remboursement de stuff, dinos ou personnages perdus.\nSanctions\nAvertissement → Ban temporaire → Ban définitif.\nTriche ou comportement toxique = sanction immédiate.</>\n\n\n\n"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "lien discord",
+        "url": "https://discord.gg/z4h6CWzaem"
+      }
+    ],
+    "version": 2
+  }
 }
