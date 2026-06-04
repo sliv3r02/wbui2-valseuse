@@ -1,7 +1,7 @@
 {
   "WBUI2": {
     "settings": {
-      "openbutton": 1,
+      "openbutton": 0,
       "hideicon": true,
       "hideiconafter": 10,
       "iconurl": "https://i.imgur.com/Ubf19Iz.png",
