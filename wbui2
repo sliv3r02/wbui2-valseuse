@@ -3,10 +3,10 @@
     "settings": {
       "openbutton": 1,
       "hideicon": true,
-      "hideiconafter": 20,
+      "hideiconafter": 10,
       "iconurl": "https://i.imgur.com/Ubf19Iz.png",
       "disableicontext": true,
-      "iconposition": 0,
+      "iconposition": 2,
       "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": true,
